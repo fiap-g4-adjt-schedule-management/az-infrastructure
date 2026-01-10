@@ -1,4 +1,4 @@
-# ☁️ Infraestrutura Azure – Produção
+# ☁️ Infraestrutura Azure 
 
 Este diretório contém os scripts em Shell(.sh) utilizando Azure CLI, responsáveis por provisionar a **infraestrutura de produção** do projeto **Tech Challenge – FIAP PósTech**.
 
