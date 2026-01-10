@@ -1,6 +1,6 @@
 # ☁️ Infraestrutura Azure 
 
-Este diretório contém os scripts em Shell(.sh) utilizando Azure CLI, responsáveis por provisionar a **infraestrutura de produção** do projeto **Tech Challenge – FIAP PósTech**.
+Este diretório contém os scripts em Shell(.sh) utilizando Azure CLI, responsáveis por provisionar a **infraestrutura** do projeto **Tech Challenge – FIAP PósTech**.
 
 A solução utiliza uma arquitetura orientada a eventos, com **Azure Functions** consumindo mensagens de filas do **Azure Service Bus**, garantindo escalabilidade, desacoplamento e segurança.
 
